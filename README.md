@@ -8,6 +8,6 @@ I am Davis Nyale
 - 👯 I’m looking to collaborate on HACKER RANK challenges
 - 💬 Ask me about HTML/CSS 
 - 📫 How to reach me: davykk@gmail.com
-- ⚡ Fun fact: Lazy so I make solution to make life easier
+- ⚡ Fun fact: solution maker for the lazy.
 
 -->
